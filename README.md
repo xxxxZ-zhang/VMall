@@ -45,6 +45,6 @@ npm run serve
 
 ###### 移动端扫描下方二维码
 
-<img src="https://github.com/xxxxZ-zhang/VMall/src/assets/img/common/1603614150.png" width="200" height="200"/>
+<img src="https://github.com/xxxxZ-zhang/VMall/tree/master/src/assets/img/common/1603614150.png" width="200" height="200"/>
 
 
